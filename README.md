@@ -1,4 +1,4 @@
-##Facebook Login & Account Pages (HTML Only)
+## Facebook Login & Account Pages (HTML Only)
 ## Project Overview
 This project is a static Facebook-style authentication interface created using only HTML.
 It includes multiple pages that simulate a basic user authentication flow such as login, account creation, and password recovery.
